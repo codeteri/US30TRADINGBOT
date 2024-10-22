@@ -1,4 +1,4 @@
-Lately i've taken a liking in trading the DJI index, so I created this open source project in the hopes to analyse the market better.
+Lately i've taken a liking in trading the Dow Jones Index, so I created this open source project in the hopes to analyse the market better.
 
 run this terminal command to run the code:
 
